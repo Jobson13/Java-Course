@@ -6,6 +6,6 @@ public class Lekcja1 {
         String name;
         System.out.print("Podaj swoje imię: ");
         name = scanner.next();
-        System.out.print("Hello " + name);
+        System.out.print("Hello " + name );
     }
 }
