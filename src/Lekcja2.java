@@ -1,4 +1,4 @@
-public class Ldkcja2 {
+public class Lekcja2 {
     public static void main(String[] args){
         // Znak - można przypisać tylko jeden znak
         char firstName = 'D'; //
